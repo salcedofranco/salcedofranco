@@ -1,6 +1,8 @@
 ### Hi there 👋
+❤️ Dibujo | 🖤 Hip-Hop | 💙 Programación
 
-HOLAAAAAAAAAAAAAAAAAA
+🌎 Soy de Mendoza  - Argentina
+🎮 HOLAAAAAAAAAAAAAAAAAA
 <!--
 **salcedofranco/salcedofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
