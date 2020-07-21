@@ -1,8 +1,8 @@
-### <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-Hola soy Franco 
-💻 Desarrollador de software trainee/junior
+### <h1 align= "center"><b>Hola Mundo! :earth_asia:</b></h1>
 
-### Conocimientos 👋
+💻 soy Franco, desarrollador de software trainee/junior y me encuentro en la busqueda de mi primer empleo en sistemas
+
+### Conocimientos
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
