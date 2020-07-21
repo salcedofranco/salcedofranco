@@ -1,13 +1,23 @@
 ### Hi there 👋
-❤️ Dibujo | 🖤 Hip-Hop | 💙 Programación
+Hola soy alejandro 🐔
+Full-Stack | Ingeniero de software🤖. (En progreso)
+
+<br>
+<hr>
+
+| 💙 Programación |
 
 🌎 Soy de Mendoza  - Argentina
+
 🎮 HOLAAAAAAAAAAAAAAAAAA
+
+
+
+
 <!--
 **salcedofranco/salcedofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-HOLAAAAAAAAAAAAAAAAAAAAAA
 
 Here are some ideas to get you started:
 
