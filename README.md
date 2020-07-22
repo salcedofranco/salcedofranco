@@ -33,6 +33,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
+[![Email](https://img.shields.io/badge/fcedo13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcedo13@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+
 
 <!--
 **salcedofranco/salcedofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
