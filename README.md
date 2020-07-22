@@ -31,7 +31,7 @@
 
 [![Email](https://img.shields.io/badge/fcedo13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcedo13@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=542616590084&text=Hola!)](https://api.whatsapp.com/send?phone=+542616590084&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=542616590084&text=Hola!)](https://api.whatsapp.com/send?phone=+542616590084&text=Hola,Franco!)
 
 
 <!--
