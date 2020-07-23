@@ -25,7 +25,7 @@
 
 🌎 Vivo en Mendoza - Argentina
 
-🎮 
+🎮 s
 
 <h1>Contacto</h1>
 
