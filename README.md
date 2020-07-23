@@ -18,19 +18,13 @@
 <div align= "center">
   
 ### Portfolio Website:
-- Personal website: [![website](https://img.shields.io/badge/https://francosalcedodev.com.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
+[![website](https://img.shields.io/badge/https://francosalcedodev.com.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
 
 
 
 <div align= "center">
   
   ![salcedofranco](https://github.com/salcedofranco/salcedofranco/blob/master/bannerGithub.jpg "salcedofranco")
-
-| 💙 Programación |
-
-🌎 Vivo en Mendoza - Argentina
-
-🎮 s
 
 <h1>Contacto</h1>
 
