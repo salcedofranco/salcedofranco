@@ -17,7 +17,7 @@
 
 <div align= "center">
   
-<h1>Portfolio website</h1>
+<h2>Portfolio website</h2>
 
 [![website](https://img.shields.io/badge/https://francosalcedodev.com.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
 
@@ -27,7 +27,7 @@
   
   ![salcedofranco](https://github.com/salcedofranco/salcedofranco/blob/master/bannerGithub.jpg "salcedofranco")
 
-<h1>Contacto</h1>
+<h2>Contacto</h2>
 
 [![Email](https://img.shields.io/badge/fcedo13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcedo13@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francosalcedodev/)](https://www.linkedin.com/in/francosalcedodev/)
