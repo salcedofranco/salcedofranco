@@ -1,6 +1,6 @@
 ### <h1 align= "center"><b>Hola Mundo! :earth_asia:</b></h1>
 
-### <h2 align= "center"> 💻 soy Franco, desarrollador de software trainee/junior y me encuentro en la busqueda de mi primer empleo en programación </h2>
+### <h2 align= "center"> 💻 soy Franco, desarrollador de software junior </h2>
 
 ### Tengo conocimientos en:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -20,7 +20,7 @@
   
 <h2>Portfolio website</h2>
 
-[![website](https://img.shields.io/badge/https://francosalcedodev.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
+[![website](https://img.shields.io/badge/https://francosalcedodev.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.ar/)
 
 
 
