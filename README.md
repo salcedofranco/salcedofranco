@@ -20,7 +20,7 @@
   
 <h2>Portfolio website</h2>
 
-[![website](https://img.shields.io/badge/https://francosalcedodev.com.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
+[![website](https://img.shields.io/badge/https://francosalcedodev.ar/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://francosalcedodev.com.ar/)
 
 
 
